@@ -9,4 +9,4 @@
 :ê∂ê¨IGES
 
 del /Q iges\*.*
-call mesh2cad bunny.obj 0.8 15 2 70 70 0.01 200
+call mesh2cad bunny.obj 0.8 15 4 90 90 0.01 200

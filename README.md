@@ -10,7 +10,7 @@
 <img src="./images/image00.png"/> 
 
 ##### STEP3 Surface Fitting -> CAD data (IGES format)
-<img src="./images/image01.png"/> 
+<img src="./images/image03.png"/> 
 
 ## Requirements
 [CGAL The Computational Geometry Algorithms Library](https://www.cgal.org/)  CGAL-4.13  
